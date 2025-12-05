@@ -4,9 +4,9 @@ const nextConfig = {
   env: {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
-    icon: 'https://ioloryn.github.com/kasm/favicon.ico',
-    listUrl: 'https://ioloryn.github.com/kasm/',
-    contactUrl: 'https://ioloryn.github.com/kasm/',
+    icon: 'https://ioloryn.github.io/kasm/favicon.ico',
+    listUrl: 'https://ioloryn.github.io/kasm/',
+    contactUrl: 'https://ioloryn.github.io/kasm/',
   },
   reactStrictMode: true,
   swcMinify: true,
