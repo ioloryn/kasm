@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://ioloryn.github.io/support',
   },
   reactStrictMode: true,
-  basePath: '/kasm/1.0',
+  basePath: '/kasm/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
